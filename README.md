@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hello, my name is Matthew Smith and I working on creating a data analyst protfolio. I am a professional in the Human Resources field specializing in payroll and systems management. I am looking to broaden my skill set in people analytics using SQL and Python. 
+
+## Coding Interests:
+PostgreSQL
+
+Python for Data Visualization
+
+## Current Projects:
+Massachusetts, USA Public Salaries Analysis - Utilizing available public salaries to understand trenfds overtime.
+
 
 <!--
 **matthewasmith01/matthewasmith01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
