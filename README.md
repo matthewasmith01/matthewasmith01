@@ -6,7 +6,7 @@ PostgreSQL
 Python for Data Visualization
 
 ## Current Projects:
-Massachusetts, USA Public Salaries Analysis - Utilizing available public salaries to understand trenfds overtime.
+Massachusetts, USA Public Salaries Analysis - Utilizing available public salaries to understand trends overtime.
 
 
 <!--
